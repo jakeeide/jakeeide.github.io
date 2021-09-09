@@ -7,7 +7,6 @@
 [AllLifeBank Customer Segmentation](/7)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
 ---
 [Credit Card Users Churn Prediction](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
