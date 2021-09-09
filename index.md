@@ -2,17 +2,33 @@
 
 ---
 
-### AllLifeBank 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[AllLifeBank Customer Segmentation](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Credit Card Users Churn Prediction](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Travel Package Purchase Prediction](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Personal Loan Campaign Modeling](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Cars4U Pricing Model](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Axis Health Insurance](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Cardio Fitness Product Analysis](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
