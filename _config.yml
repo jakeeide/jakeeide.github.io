@@ -1,9 +1,9 @@
-title: John Doe # your name (or website title) here
+title: Jake Eide # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I recently completed a certificate program in <a href="https://eportfolio.greatlearning.in/jake-eide">Data Science and Business Analytics</a>. 
   <br><br>
-  Second description 
+  This is a repository for the projects completed in this program. 
   <br><br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
