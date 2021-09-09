@@ -1,5 +1,7 @@
 ### Data Science Portfolio
 
+[Test this](/Eide_Project7_AllLifeBank)
+
 ---
 ##### AllLifeBank Customer Segmentation • Unsupervised Learning Project
 
