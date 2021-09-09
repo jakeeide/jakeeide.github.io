@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[AllLifeBank Customer Segmentation](/sample_page)
+[AllLifeBank Customer Segmentation](/7)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
