@@ -1,11 +1,9 @@
 title: Jake Eide # your name (or website title) here
 logo: "/images/Jake_090921.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I recently completed a certificate program in <a href="https://eportfolio.greatlearning.in/jake-eide">Data Science and Business Analytics</a>. 
+  I recently completed a certificate program in <a href="https://eportfolio.greatlearning.in/jake-eide">Data Science and Business Analytics</a> through the University of Texas at Austin McCombs School of Business. 
   <br><br>
-  This is a repository for the projects completed in this program. 
+  This is a portfolio for the Python projects completed in this program.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
