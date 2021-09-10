@@ -1,4 +1,4 @@
-title: Jake Eide # your name here
+title: JAKE EIDE # your name here
 logo: "/images/Jake_090921.png?raw=true" # your photo here
 description: > # your text below
   <br><br>
@@ -8,5 +8,5 @@ description: > # your text below
   <br><br>
   The projects shown here were completed as part of this program.
   <br><br>
-  [jacobeide@gmail.com](mailto:jacobeide@gmail.com)
+  <a href = "mailto: jacobeide@gmail.com">jacobeide@gmail.com</a>
 theme: jekyll-theme-minimal
