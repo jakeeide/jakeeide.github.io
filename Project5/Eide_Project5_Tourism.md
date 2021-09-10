@@ -1,4 +1,4 @@
-## Data Science Portfolio
+## <a href="https://jakeeide.github.io">Data Science Portfolio</a>
 
 ***
 ##### Travel Package Purchase Prediction  •  Ensemble Techniques Project
