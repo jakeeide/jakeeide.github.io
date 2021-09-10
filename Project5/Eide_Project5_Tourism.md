@@ -1,3 +1,11 @@
+## Data Science Portfolio
+
+***
+##### Travel Package Purchase Prediction  •  Ensemble Techniques Project
+##### Python • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project5_VisitWithUs.pdf" target="_blank">PDF Presentation</a>
+    
+***
+
 # <span style='color:#ffd400'> Background </span>  
 "Visit With Us" is a tourism company wishing to expand its customer base. Currently, "Visit With Us" offers 5 types of packages - Basic, Standard, Deluxe, Super Deluxe, King. Last year, 18% of the customers purchased the packages. However, the marketing cost was quite high because customers were contacted at random without looking at the available information.
 
