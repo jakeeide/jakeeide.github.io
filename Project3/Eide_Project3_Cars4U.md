@@ -1,3 +1,11 @@
+## Data Science Portfolio
+
+***
+##### Cars4U Pricing Model  •  Supervised Learning Project
+##### Python • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project3_Cars4U.pdf" target="_blank">PDF Presentation</a>
+    
+***
+
 # <span style='color:#ffd400'> Background </span>  
 Cars4U is a tech start-up operating in the Indian pre-owned car market. The business would like to come up with a pricing model that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing. For example, if the business knows the market price, it will never sell anything below it.
 
