@@ -1,4 +1,4 @@
-## Data Science Portfolio
+## <a href="https://jakeeide.github.io">Data Science Portfolio</a>
 
 ***
 ##### Credit Card Users Churn Prediction  •  Model Tuning Project
