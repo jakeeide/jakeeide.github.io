@@ -1,3 +1,11 @@
+## Data Science Portfolio
+
+***
+##### Personal Loan Campaign Modeling  •  Classification Project
+##### Python • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project4_AllLifeBank.pdf" target="_blank">PDF Presentation</a>
+    
+***
+
 # <span style='color:#ffd400'> Background </span>  
 AllLife Bank is a US bank that has a growing customer base. The majority of these customers are liability customers (depositors) with varying sizes of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans. In particular, the management wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors).
 
