@@ -1,3 +1,11 @@
+## Data Science Portfolio
+
+***
+##### Credit Card Users Churn Prediction  •  Model Tuning Project
+##### Python • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project6_TheraBank.pdf" target="_blank">PDF Presentation</a>
+    
+***
+
 # <span style='color:#ffd400'> Background </span>  
 The Thera bank recently saw a steep decline in their number of credit card users, leading to a loss of income. The bank wants to analyze the data of customers and identify the customers who will leave their credit card services. I will develop a classification model that will help the bank improve their services so that customers do not close their credit card accounts.
 
