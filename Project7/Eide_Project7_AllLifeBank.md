@@ -2,8 +2,8 @@
 
 ***
 ##### AllLifeBank Customer Segmentation • Unsupervised Learning Project
-##### Python • [PDF Presentation](pdf/Eide_Project7_AllLifeBank.pdf)
-
+##### Python • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project7_AllLifeBank.pdf" target="_blank">PDF Presentation</a>
+    
 ***
 
 # <span style='color:#ffd400'> Background </span>  
