@@ -1,3 +1,11 @@
+## Data Science Portfolio
+
+***
+##### AllLifeBank Customer Segmentation • Unsupervised Learning Project
+##### Python • [PDF Presentation](pdf/Eide_Project7_AllLifeBank.pdf)
+
+***
+
 # <span style='color:#ffd400'> Background </span>  
 AllLife Bank wants to focus on its credit card customer base in the next financial year. They have been advised by their marketing research team, that the penetration in the market can be improved. Based on this input, the marketing team proposes to run personalized campaigns to target new customers as well as upsell to existing customers. Another insight from the market research was that the customers perceive the support services of the bank poorly. Based on this, the operations team wants to upgrade the service delivery model, to ensure that customer queries are resolved faster.
 
