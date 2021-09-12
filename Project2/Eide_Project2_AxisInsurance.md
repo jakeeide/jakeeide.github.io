@@ -1,7 +1,7 @@
 ## <a href="https://jakeeide.github.io">Data Science Portfolio</a>
 
 ***
-##### Axis Health Insurance  •  Business Statistics
+##### Axis Health Insurance  •  Business Statistics Project
 ##### Python • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project2_AxisInsurance.pdf" target="_blank">PDF Presentation</a>
     
 ***
