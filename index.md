@@ -16,7 +16,7 @@
 ##### Cars4U Pricing Model  •  Supervised Learning Project
 ##### [Python](Project3/Eide_Project3_Cars4U) • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project3_Cars4U.pdf" target="_blank">PDF Presentation</a>
 ***
-##### Axis Health Insurance  •  Business Statistics
+##### Axis Health Insurance  •  Business Statistics Project
 ##### [Python](Project2/Eide_Project2_AxisInsurance) • <a href="https://github.com/jakeeide/jakeeide.github.io/blob/d1b9ad6fd72c1d69fbea7c7200186ded7128f6b6/pdf/Eide_Project2_AxisInsurance.pdf" target="_blank">PDF Presentation</a>
 ***
 ##### Cardio Fitness Product Analysis  •  Python Foundations Project
